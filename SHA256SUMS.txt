@@ -1,0 +1,7 @@
+0f04663956c46ddee279ef1cb2934c4e9ee0de8394d17d101227be68aeb808fb  ./README.md
+00884b607319462bf831a20f024020aee6b0cfae5a179660f922785a2c1eadcc  ./src/arabizi_norm/__init__.py
+6cb8db8ca01595e5c0100ad61c4baef0754c42103d2d1e32f5f97d01eee4c837  ./src/arabizi_norm/arabizi.py
+f4646b0635518bb18ea35431fcdaa69b4c1871addefeb92a6ede8d9615dbb871  ./src/arabizi_norm/language.py
+264e567933f13ebaa359f9aa2026b6c0a626a0a74667581957410710f169e028  ./src/arabizi_norm/normalizer.py
+813f21c55aca4a0abd33931aa90c6af9d96e54c2f074e31e0af735eea2639dc5  ./tests/test_arabizi.py
+25bcf673563eec3f561b4d7f7bc1093617aca1abb1343ad93b82bfc78fbe8b6d  ./tests/test_normalizer.py
